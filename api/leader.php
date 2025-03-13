@@ -5,7 +5,7 @@
         <div class="team-grid">
             <div class="team-member president">
                 <div class="member-image">
-                    <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/poorvi-singh.jpg" alt="Poorvi Singh">
+                    <img src="/assets/team/poorvi-singh.jpg" alt="Poorvi Singh">
                 </div>
                 <h4>Poorvi Singh</h4>
                 <p class="position">Club President</p>
@@ -16,21 +16,21 @@
             </div>
             <div class="team-member">
                 <div class="member-image">
-                    <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/shephali-sharma.jpg" alt="Shephali Sharma">
+                    <img src="assets/team/shephali-sharma.jpg" alt="Shephali Sharma">
                 </div>
                 <h4>Shephali Sharma</h4>
                 <p class="position">HR Head</p>
             </div>
             <div class="team-member">
                 <div class="member-image">
-                    <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/nitika-singh.jpg" alt="Nitika Singh">
+                    <img src="assets/team/nitika-singh.jpg" alt="Nitika Singh">
                 </div>
                 <h4>Nitika Singh</h4>
                 <p class="position">Club PRO</p>
             </div>
             <div class="team-member">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/manas-arora.jpg" alt="Manas Arora">
+                <img src="assets/team/manas-arora.jpg" alt="Manas Arora">
             </div>
             <h4>Manas Arora</h4>
             <p class="position">2nd Year Coordinator</p>

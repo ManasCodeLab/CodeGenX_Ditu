@@ -18,7 +18,7 @@ include 'header.php';
             <div class="team-grid">
                 <div class="teams head">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/atik-zafar.jpg" alt="Atik Zafar">
+                        <img src="assets/team/atik-zafar.jpg" alt="Atik Zafar">
                     </div>
                     <h3>Atik Zafar</h3>
                     <span class="position">Technical Head</span>
@@ -30,7 +30,7 @@ include 'header.php';
 
                 <div class="teams">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/subhodeep.png" alt="Subhodeep">
+                        <img src="assets/team/subhodeep.png" alt="Subhodeep">
                     </div>
                     <h3>Subhodeep</h3>
                     <span class="position">Technical Co-Head</span>
@@ -42,7 +42,7 @@ include 'header.php';
 
                 <div class="teams">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/kashish.png" alt="Kashish">
+                        <img src="assets/team/kashish.png" alt="Kashish">
                     </div>
                     <h3>Kashish</h3>
                     <span class="position">Technical Co-Head</span>
@@ -60,7 +60,7 @@ include 'header.php';
             <div class="team-grid">
                 <div class="teams head">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/aditi-sinha.jpg" alt="Aditi Sinha">
+                        <img src="assets/team/aditi-sinha.jpg" alt="Aditi Sinha">
                     </div>
                     <h3>Aditi Sinha</h3>
                     <span class="position">Content Head</span>
@@ -72,7 +72,7 @@ include 'header.php';
 
                 <div class="teams">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/koshika-singh.jpeg" alt="Koshika Singh">
+                        <img src="assets/team/koshika-singh.jpeg" alt="Koshika Singh">
                     </div>
                     <h3>Koshika Singh</h3>
                     <span class="position">Content Co-Head</span>
@@ -84,7 +84,7 @@ include 'header.php';
 
                 <div class="teams">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/nisha.jpg" alt="Nisha">
+                        <img src="assets/team/nisha.jpg" alt="Nisha">
                     </div>
                     <h3>Nisha</h3>
                     <span class="position">Content Co-Head</span>
@@ -102,7 +102,7 @@ include 'header.php';
     <div class="team-grid">
         <div class="teams head">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/rishabh-goswami.jpg" alt="Rishabh Goswami">
+                <img src="assets/team/rishabh-goswami.jpg" alt="Rishabh Goswami">
             </div>
             <h3>Rishabh Goswami</h3>
             <span class="position">Design Head</span>
@@ -114,7 +114,7 @@ include 'header.php';
 
         <div class="teams">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/kaushki.jpg" alt="Kaushki">
+                <img src="assets/team/kaushki.jpg" alt="Kaushki">
             </div>
             <h3>Kaushki</h3>
             <span class="position">Design Co-Head</span>
@@ -126,7 +126,7 @@ include 'header.php';
 
         <div class="teams">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/ashray.jpg" alt="Aditya Singh">
+                <img src="assets/team/ashray.jpg" alt="Aditya Singh">
             </div>
             <h3>Ashray</h3>
             <span class="position">Design Co-Head</span>
@@ -144,7 +144,7 @@ include 'header.php';
     <div class="team-grid">
         <div class="teams head">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/ansh-singh.jpg" alt="Ansh Singh">
+                <img src="assets/team/ansh-singh.jpg" alt="Ansh Singh">
             </div>
             <h3>Ansh Singh</h3>
             <span class="position">Publicity Head</span>
@@ -156,7 +156,7 @@ include 'header.php';
 
         <div class="teams">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/somil-shrivastav.jpg" alt="Somil Shrivastav">
+                <img src="assets/team/somil-shrivastav.jpg" alt="Somil Shrivastav">
             </div>
             <h3>Somil Shrivastava</h3>
             <span class="position">Publicity Co-Head</span>
@@ -168,7 +168,7 @@ include 'header.php';
 
         <div class="teams">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/dipanshu-sharma.jpg" alt="Dipanshu Sharma">
+                <img src="assets/team/dipanshu-sharma.jpg" alt="Dipanshu Sharma">
             </div>
             <h3>Dipanshu Sharma</h3>
             <span class="position">Publicity Co-Head</span>
@@ -184,7 +184,7 @@ include 'header.php';
             <div class="team-grid">
                 <div class="teams head">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/rudraksh-pandey.jpg" alt="Rudraksh Pandey">
+                        <img src="assets/team/rudraksh-pandey.jpg" alt="Rudraksh Pandey">
                     </div>
                     <h3>Rudraksh Pandey</h3>
                     <span class="position">Management Co-Head</span>
@@ -196,7 +196,7 @@ include 'header.php';
 
                 <div class="teams">
                     <div class="member-image">
-                        <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/ritwik-chauhan.jpg" alt="Ritwik Chauhan">
+                        <img src="assets/team/ritwik-chauhan.jpg" alt="Ritwik Chauhan">
                     </div>
                     <h3>Ritwik Chaudan</h3>
                     <span class="position">Management Co-Head</span>
@@ -214,7 +214,7 @@ include 'header.php';
     <div class="team-grid">
         <div class="teams head">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/gauranshi-papnai.jpg" alt="Gauransh Papnai">
+                <img src="assets/team/gauranshi-papnai.jpg" alt="Gauransh Papnai">
             </div>
             <h3>Gauransh Papnai</h3>
             <span class="position">Resource Head</span>
@@ -226,7 +226,7 @@ include 'header.php';
 
         <div class="teams">
             <div class="member-image">
-                <img src="https://raw.githubusercontent.com/ManasCodeLab/CodeGenX/refs/heads/main/assets/team/avinash.jpg" alt="Avinash">
+                <img src="assets/team/avinash.jpg" alt="Avinash">
             </div>
             <h3>Avinash</h3>
             <span class="position">Resource Co-Head</span>

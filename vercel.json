@@ -6,7 +6,8 @@
     }
   },
   "routes": [
+    { "src": "/", "dest": "/api/index.php" },
     { "src": "/(.*)", "dest": "/api/$1" },
-    { "src": "/", "dest": "/api/index.php" }
+    { "src": "/PHPMailer/(.*)", "dest": "/api/PHPMailer/$1" }
   ]
 }
