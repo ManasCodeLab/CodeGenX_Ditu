@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Fetch CSRF token from server
         const getCsrfToken = async () => {
             try {
-                const response = await fetch('https://code.manas.eu.org/contact.php', {
+                const response = await fetch('https://codegenx-ditu.vercel.app/contact.php', {
                     method: 'GET',
                     credentials: 'include'
                 });

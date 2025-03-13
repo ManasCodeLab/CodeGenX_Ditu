@@ -9,7 +9,7 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
 }
 
 // CORS Configuration
-header("Access-Control-Allow-Origin: https://code.manas.eu.org");
+header("Access-Control-Allow-Origin: https://codegenx-ditu.vercel.app");
 header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type");
 header("Access-Control-Allow-Credentials: true");
